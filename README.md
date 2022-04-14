@@ -2,7 +2,7 @@
 
 About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-april19-2022/
 
-Packages to install prior to the meetup:
+Packages to install prior to the meetup:  
 `tsibble`  
 `fable`  
 `feasts`  
